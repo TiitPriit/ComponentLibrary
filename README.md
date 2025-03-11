@@ -2,7 +2,7 @@ Component Library
 
 Overview
 
-This is a component library built for [insert project name], developed as a final project for [course name or school name]. The library provides a web-based interface where users can browse, preview, and copy code snippets for prebuilt UI components styled with Tailwind CSS.
+The library provides a web-based interface where users can browse, preview, and copy code snippets for prebuilt UI components styled with Tailwind CSS.
 
 Features
 
